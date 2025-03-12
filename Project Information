@@ -1,0 +1,41 @@
+# CommunionHub 🎉
+
+CommunionHub is a modern **event-based platform** designed to bring people together through faith, social, and charity events. The platform allows users to explore, filter, and add events while maintaining a **clean, responsive, and ultra-modern UI**.
+
+## 🚀 Features
+
+✅ **Fully Responsive UI** – Designed with a clean, ultra-modern interface  
+✅ **Event Management** – View, filter, and add new events dynamically  
+✅ **Authentication** – Secure login/logout functionality using JWT tokens  
+✅ **Testimonials Section** – Engaging user reviews displayed in a smooth carousel  
+✅ **Dark & Light Navbar** – Conditional navbar styling for a seamless experience  
+✅ **Framer Motion Animations** – Smooth transitions for better UI engagement  
+✅ **Footer Section** – A common footer included across all routes  
+
+---
+
+## 📂 Folder Structure
+
+CommunionHub/ │── src/ │ ├── components/ │ │ ├── About/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── ContactUs/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── Events/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── EventItem/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── Footer/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── Home/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── Login/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── Navbar/ │ │ │ ├── index.js │ │ │ ├── index.css │ │ ├── ProtectedRoute/ │ │ │ ├── index.js │ ├── App.js │ ├── index.js │── public/ │── package.json │── README.md │── .gitignore
+
+
+---
+
+## 🛠️ Installation & Setup
+
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/sakethgudipati/SakethCommunionHub.git
+cd SakethCommunionHub
+
+**Built With**
+React – Frontend framework
+React Router – Client-side routing
+Framer Motion – UI animations
+CSS Modules – Modular styling approach
+Unsplash API – Free images for placeholder visuals
+
+📬 Contact
+For any inquiries, feel free to reach out:
+📧 Email: sakethgudipati@example.com
+🔗 GitHub: sakethgudipati
